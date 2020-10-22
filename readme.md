@@ -7,7 +7,7 @@
 - 1512471 - 
 #### Thông tin môn học ####
 - Đề Tài : Website buôn bán laptop.
-- Giảng viên phụ trách: Ngô Ngọc Đăng Khoa
+- Giảng viên phụ trách: 
 - k15 ĐH KHTN
 ### Các Chức năng đã làm
 ### 1 ###
