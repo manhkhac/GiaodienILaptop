@@ -1,10 +1,10 @@
 ### Thông tin nhóm ###
 #### Tên Nhóm: N5QPT ###
 #### Thành viên: ####
-- 1512418 - Trần Duy Phương
-- 1512421 - Đinh Hữu Phước
-- 1512432 - Nguyễn Đăng Quang
-- 1512471 - Nguyễn Trung Tài
+- 1512418 - 
+- 1512421 - 
+- 1512432 - 
+- 1512471 - 
 #### Thông tin môn học ####
 - Đề Tài : Website buôn bán laptop.
 - Giảng viên phụ trách: Ngô Ngọc Đăng Khoa
@@ -65,7 +65,7 @@ bán, số lượng tồn tương ứng cho từng sản phẩm
 chưa giao (VD: text màu khác, background màu khác, …)
 
 ### link project github ###
-https://github.com/DangQuangITus/Web-FinalProject-N4QPT
+https://github.com/manhkhac/GiaodienILaptop.git
 ### Link web demo ###
 https://n5qptlaptop.000webhostapp.com/
 # GiaodienILaptop
